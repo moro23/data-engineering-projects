@@ -1,0 +1,3 @@
+## Data Engineering Portfolio
+This repository showcases projects and hands-on work completed as part of my Data Engineering course. It includes practice work, assignments, projects, etc. 
+The also includes ETL pipeline implementations, data modeling and warehousing exercises, big data processing tasks, and workflow automation using tools like Apache Airflow, Spark, and SQL. The goal is to demonstrate proficiency in core data engineering concepts and tools while building a professional portfolio.
